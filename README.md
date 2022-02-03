@@ -4,7 +4,7 @@
 
 In order to facilitate modification, copied G502 motherboard's PCB layout.
 
-![](https://github.com/SynEGR/LogitechG502Reverse/releases/download/v1.1/readme-pcb.png)
+![](https://github.com/SynEGR/LogitechG502Reverse/releases/download/v1.2/readme-pcb.png)
 
 
 
