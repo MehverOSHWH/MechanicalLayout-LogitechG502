@@ -57,3 +57,6 @@
 *.md linguist-detectable=true
 *.dxf linguist-detectable=true
 *.dwg linguist-detectable=true
+
+##################################
+*.json linguist-language=LCEDA
