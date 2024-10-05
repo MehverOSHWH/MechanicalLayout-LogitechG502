@@ -10,3 +10,5 @@
 <div>
 <img width="50%" src="https://github.com/MehverOSHWH/MechanicalLayout-LogitechG502/blob/main/img/A.jpg" /><img width="50%" src="https://github.com/MehverOSHWH/MechanicalLayout-LogitechG502/blob/main/img/B.jpg" />
 </div>
+
+CC-BY-NC-SA 3.0
