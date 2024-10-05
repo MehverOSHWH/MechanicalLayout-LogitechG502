@@ -5,8 +5,6 @@
 
 很早期搞得，无限期搁置了。目前只完成了对机械外形的逆向，未来会考虑实现实际可用的电路。当初搞这个的目的是，作为G502毒唯，准备用一辈子 G502，万一哪天停产了，就得自己手搓了dog。
 
-![](https://github.com/MehverOSHWH/MechanicalLayout-LogitechG502/blob/main/img/readme-pcb.png)
-
 <div>
 <img width="50%" src="https://github.com/MehverOSHWH/MechanicalLayout-LogitechG502/blob/main/img/A.jpg" /><img width="50%" src="https://github.com/MehverOSHWH/MechanicalLayout-LogitechG502/blob/main/img/B.jpg" />
 </div>
